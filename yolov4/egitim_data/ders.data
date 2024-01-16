@@ -1,0 +1,5 @@
+class = 1
+train = data/spot_training.txt
+valid = data/spot_testing.txt
+names = data/egitim_data.names
+backup = backup
